@@ -8,6 +8,7 @@ import createSagaMiddleware from 'redux-saga'
 
 import rootReducer from './rootReducer'
 import rootSaga from './rootSaga'
+import sagaPLP from "./container/PLP/saga";
 
 import './index.css';
 
